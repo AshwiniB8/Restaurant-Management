@@ -1,0 +1,168 @@
+{
+  "users": [
+    {
+      "id": "3e12",
+      "name": "ashu",
+      "email": "ash@test.com",
+      "password": "abc#321"
+    },
+    {
+      "id": "70a1",
+      "name": "ashwini",
+      "email": "ash@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "ae40",
+      "name": "Ashu",
+      "email": "ash@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "26df",
+      "name": "Rio",
+      "email": "rio@b.com",
+      "password": "rio@2022"
+    },
+    {
+      "id": "c3c2",
+      "name": "Reyansh",
+      "email": "Reyansh@b.com",
+      "password": "rey@321"
+    },
+    {
+      "id": "d6f2",
+      "name": "",
+      "email": "ash@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "0617",
+      "name": "Reyansh",
+      "email": "Reyansh@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "2d81",
+      "name": "Ashwini",
+      "email": "ash@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "88cb",
+      "name": "Ashwini",
+      "email": "ash@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "173d",
+      "name": "Ash",
+      "email": "ash@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "3031",
+      "name": "john",
+      "email": "ash@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "a5e2",
+      "name": "john",
+      "email": "ash@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "ddbe",
+      "name": "",
+      "email": "ash@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "4a21",
+      "name": "john",
+      "email": "ash@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "3496",
+      "name": "ram",
+      "email": "ash@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "92be",
+      "name": "",
+      "email": "ash@b.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "0911",
+      "name": "dheu",
+      "email": "ash@b.comhttp://localhost:8080/img/logo.png",
+      "password": "abc@123"
+    },
+    {
+      "id": "b62b",
+      "name": "sdd",
+      "email": "ash@b.comhttp://localhost:8080/img/logo.png",
+      "password": "abc@123"
+    },
+    {
+      "id": "017e",
+      "name": "ramesh",
+      "email": "ash@b.",
+      "password": "abc@123"
+    },
+    {
+      "id": "67b7",
+      "name": "ASH",
+      "email": "ash@b.comhttp://localhost:8080/img/logo.png",
+      "password": "abc@123"
+    },
+    {
+      "id": "6470",
+      "name": "ashu",
+      "email": "ash@test.com",
+      "password": "abc#321"
+    },
+    {
+      "id": "8b9b",
+      "name": "ashu",
+      "email": "ash@test.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "befa",
+      "name": "Ramesh",
+      "email": "ramu@ram.com",
+      "password": "ram123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "address": "Belagavi",
+      "contact": "111",
+      "id": "1"
+    },
+    {
+      "id": "29c4",
+      "name": "Khanavali",
+      "address": "Hukkeri",
+      "contact": "4342"
+    },
+    {
+      "id": "e178",
+      "name": "Burger King",
+      "address": "Vizag",
+      "contact": "1234567"
+    },
+    {
+      "name": "Udupi hotel",
+      "address": "Udupi,Karnataka",
+      "contact": "7896543",
+      "id": "c5a9"
+    }
+  ]
+}
